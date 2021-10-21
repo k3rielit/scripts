@@ -7,7 +7,7 @@ for(let i in data) document.getElementById('a'+i).value=data[i][2]
 ```
 ### Tampermonkey:
 1. Install the Tampermonkey extension. ([Link](https://www.tampermonkey.net))
-2. Install: [```normal```](https://github.com/k3rielit/scripts/flippity/raw/main/flippity-tamperm.user.js) [```funny```](https://github.com/k3rielit/scripts/flippity/raw/main/ultimity-tamperm.user.js)
+2. Install: [```normal```](https://github.com/k3rielit/scripts/raw/main/flippity/flippity-tamperm.user.js) [```funny```](https://github.com/k3rielit/scripts/raw/main/flippity/ultimity-tamperm.user.js)
 ### ❗ Important:
  - The script can become outdated if Flippity updates their code. Please leave an issue if that happens, I'll try to fix it. (Last tested: 2021.10.21.)
  - To test it: [flippity demo](https://www.flippity.net/sh.php?k=1ubDVulJpW7B2NDDuHMA1CtBwRxGiehQQZzeJpExdcwQ)

@@ -6,6 +6,6 @@ Leet content eltávolító script-ek Facebook posztokhoz.
 ### Telepítés:
 * **Tampermonkey** bővítmény telepítése. ([Link](https://www.tampermonkey.net))
 * Telepítés:
-  * [soft link](https://github.com/k3rielit/scripts/antileet/raw/main/soft.user.js)
-  * [hard link](https://github.com/k3rielit/scripts/antileet/raw/main/hard.user.js)
-  * [sziauram link](https://github.com/k3rielit/scripts/antileet/raw/main/sziauram.user.js)
+  * [soft link](https://github.com/k3rielit/scripts/raw/main/antileet/hard.user.js)
+  * [hard link](https://github.com/k3rielit/scripts/raw/main/antileet/soft.user.js)
+  * [sziauram link](https://github.com/k3rielit/scripts/raw/main/antileet/sziauram.user.js)

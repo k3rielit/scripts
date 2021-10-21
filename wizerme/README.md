@@ -2,7 +2,7 @@
 Trade offer, i receive nothing, you receive Wizer.me answers........
 ### 🔮 Tutorial:
 1. Install the Tampermonkey extension. ([Link](https://www.tampermonkey.net))
-2. [Install](https://raw.githubusercontent.com/k3rielit/scripts/wizerme/main/wizerme.user.js)
+2. [Install](https://github.com/k3rielit/scripts/raw/main/wizerme/wizerme.user.js)
 3. Done, now whenewer a test loads, there'll be a 🔮 icon, which shows the right answers on click.
 ### ❗ Important:
  - There can be tasks without a correct answer.
