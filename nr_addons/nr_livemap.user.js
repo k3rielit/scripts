@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         NR Livemap Addons
 // @namespace    NR_Addons
-// @version      1.0
+// @version      1.1
 // @description  A search feature for the NR livemap.
 // @author       k3rielit / hrzn
+// @downloadURL  https://github.com/k3rielit/scripts/raw/main/nr_addons/nr_livemap.user.js
 // @match        *://livemap.nightriderz.world/*
 // @icon         https://cdn.nightriderz.world/images/website/favicon.png
 // @grant        none
@@ -23,7 +24,6 @@
         newElem.appendTo(".move");
         $('#search-tbx').on('input', function() {
             $('.race').children().css('border-radius','5px');
-            //console.log(this.value);
             for(let _i = 0; _i<$('.race').children().length; _i++) {
                 if($('.race').children().eq(_i).attr('title').toLowerCase().startsWith(this.value.toLowerCase())) {
                     $('.race').children().eq(_i).css('display','block');
