@@ -5,6 +5,7 @@
 - Paste it into the console
 - Change the `uid` (first line) to a GitHub account name
 - Press `Enter`
+- Wait for it to complete (it'll write 'Done' into the console)
 ### Console commands (params are case sensitive):
 - `starred`: displays the starred, but not listed items
 - `lists`: displays the account's lists with their items

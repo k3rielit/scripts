@@ -38,6 +38,7 @@ function getReposFromList(url) {
 }
 
 function finalize() {
+    console.log('Done');
     const container = document.querySelector("body > div.application-main");
     container.style.textAlign = 'center';
     let content = '';
