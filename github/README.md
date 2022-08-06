@@ -11,3 +11,5 @@
   - Case sensitive, expects the list's id (for ex. `asd-asd`, not `asD/* ASD`)
   - `item` works with the URL and the title too
 - If it's on the list, it returns `true`, otherwise `false`
+### How to disable the output
+- Delete the contents of the `finalize()` function.
