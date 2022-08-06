@@ -55,6 +55,26 @@ function finalize() {
     container.innerHTML = content+'</table>';
 }
 
+// Commands
 function isItemOnList(item, list) {
-    return lists[list].filter(f => f==item || f==item.split('/').last()).length>0;
+    return lists[list].filter(f => f==item || f==item.split('/').last() || f.split('/').last()==item || f.split('/').last()==item.split('/').last()).length>0;
+}
+function IsItemUnlisted(item) {
+    return starred.filter(f => f==item || f==item.split('/').last() || f.split('/').last()==item || f.split('/').last()==item.split('/').last()).length>0;
+}
+function IsItemListed(item) {
+    for (const key in lists) {
+        if(lists[key].filter(f => f==item || f==item.split('/').last() || f.split('/').last()==item || f.split('/').last()==item.split('/').last()).length>0) return true;
+    }
+    return false;
+}
+function ItemsOnList(list) {
+    return lists[list];
+}
+function ItemsNotOnList(list) {
+    let result = [...starred];
+    for (const key in lists) {
+        result = result.concat(lists[key].filter(f => !lists[list].includes(f)));
+    }
+    return result;
 }
