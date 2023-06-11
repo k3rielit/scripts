@@ -8,6 +8,7 @@
 // @match        *://*.youtu.be/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
+// @downloadURL  https://github.com/k3rielit/scripts/raw/main/youtube/swap.user.js
 // ==/UserScript==
 
 console.log('[YTSwap] Loaded');

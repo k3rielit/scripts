@@ -1,4 +1,5 @@
 # Scripts
+
 Some funny userscripts to confuse chrome.
 
 Details about each script can be found inside their directory.
@@ -13,4 +14,4 @@ Details about each script can be found inside their directory.
 | [steamcharts](/steamcharts/)   | [[extended](https://github.com/k3rielit/scripts/raw/main/steamcharts/extendedsteamcharts.user.js)] |
 | [vectors](/vectors/)           | [[previews](https://github.com/k3rielit/scripts/raw/main/vectors/vectorpreviews.user.js)] |
 | [wizerme](/wizerme/)           | [[solver](https://github.com/k3rielit/scripts/raw/main/wizerme/wizerme.user.js)] |
-| [youtube](/youtube/)           | [[normalize-links](https://github.com/k3rielit/scripts/raw/main/youtube/normalize-links.user.js)] |
+| [youtube](/youtube/)           | [[swap](https://github.com/k3rielit/scripts/raw/main/youtube/swap.user.js)] |
