@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         YT Swap
 // @namespace    k3rielit.ytswap
-// @version      1.0
+// @version      2.0
 // @description  Swaps between Shorts and Watch UI for the current video.
 // @author       github.com/k3rielit
 // @match        *://*.youtube.com/*
 // @match        *://*.youtu.be/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
+// @updateURL    https://github.com/k3rielit/scripts/raw/main/youtube/swap.user.js
 // @downloadURL  https://github.com/k3rielit/scripts/raw/main/youtube/swap.user.js
 // ==/UserScript==
 
@@ -95,6 +96,10 @@ function sleep(ms) {
                     topLeftLogo.appendChild(stringToElement(components.buttonQRCode));
                 }
             }
+            // Replace redirect links
+            document.querySelectorAll('a[href*="https://www.youtube.com/redirect"]').forEach((elem,index) => {
+                elem.href = new URL(elem.href).searchParams.get('q');
+            });
         });
     }
 })();
