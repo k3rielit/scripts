@@ -75,6 +75,7 @@ function sleep(ms) {
     while(true) {
         await sleep(111).then(() => {
             if(lastHref != window.location.href || !document.getElementById('ytsw-home')) {
+                lastHref = window.location.href;
                 topLeftLogo.innerText = '';
                 // waitForElement('#voice-search-button').then((elem) => elem.remove());
                 // Determine what components to render
