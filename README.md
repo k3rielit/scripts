@@ -16,3 +16,4 @@ Details about each script can be found inside their directory.
 | [vectors](/vectors/)           | [[previews](https://github.com/k3rielit/scripts/raw/main/vectors/vectorpreviews.user.js)] |
 | [wizerme](/wizerme/)           | [[solver](https://github.com/k3rielit/scripts/raw/main/wizerme/wizerme.user.js)] |
 | [youtube](/youtube/)           | [[swap](https://github.com/k3rielit/scripts/raw/main/youtube/swap.user.js)] |
+| [redmenta](/redmenta/)           | [[rdmt](https://github.com/k3rielit/scripts/raw/main/redmenta/rdmt.user.js)] |
