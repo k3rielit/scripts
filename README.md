@@ -12,8 +12,9 @@ Details about each script can be found inside their directory.
 | [gamemodels3d](/gamemodels3d/) | [[gm3dbypass](https://github.com/k3rielit/scripts/raw/main/gamemodels3d/gm3dbypass.user.js)] |
 | [nr_addons](/nr_addons/)       | [[livemap](https://github.com/k3rielit/scripts/raw/main/nr_addons/nr_livemap.user.js)] |
 | [oktatas_hu](/oktatas_hu/)     | [[splitscreen](https://github.com/k3rielit/scripts/raw/main/oktatas_hu/oktatas_hu.user.js)] |
+| [origo](/origo/)               | [[utility](https://github.com/k3rielit/scripts/raw/main/origo/origo_util.user.js)] |
 | [steamcharts](/steamcharts/)   | [[extended](https://github.com/k3rielit/scripts/raw/main/steamcharts/extendedsteamcharts.user.js)] |
 | [vectors](/vectors/)           | [[previews](https://github.com/k3rielit/scripts/raw/main/vectors/vectorpreviews.user.js)] |
 | [wizerme](/wizerme/)           | [[solver](https://github.com/k3rielit/scripts/raw/main/wizerme/wizerme.user.js)] |
 | [youtube](/youtube/)           | [[swap](https://github.com/k3rielit/scripts/raw/main/youtube/swap.user.js)] |
-| [redmenta](/redmenta/)           | [[rdmt](https://github.com/k3rielit/scripts/raw/main/redmenta/rdmt.user.js)] |
+| [redmenta](/redmenta/)         | [[rdmt](https://github.com/k3rielit/scripts/raw/main/redmenta/rdmt.user.js)] |

@@ -1,0 +1,24 @@
+meta {
+  name: Search
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{clientApiUrl}}/content-page/search?rowCount_limit=999&page_limit=0&publishDate_order[]=desc&tagSlugs[]=onlyfans&global_filter
+  body: none
+  auth: none
+}
+
+params:query {
+  rowCount_limit: 999
+  page_limit: 0
+  publishDate_order[]: desc
+  tagSlugs[]: onlyfans
+  global_filter: 
+}
+
+headers {
+  Accept: application/json
+  Portal: origo
+}

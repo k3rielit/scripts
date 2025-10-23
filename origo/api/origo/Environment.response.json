@@ -1,0 +1,25 @@
+{
+  "production": true,
+  "type": "prod",
+  "apiUrl": {
+    "clientApiUrl": "https://api.origo.hu/publicapi/hu",
+    "serverApiUrl": "http://origofeapi.app.content.private/publicapi/hu"
+  },
+  "personalizedRecommendationApiUrl": {
+    "clientApiUrl": "https://terelo.mediaworks.hu/api",
+    "serverApiUrl": "https://terelo.app.content.private/api"
+  },
+  "facebookAppId": "1534911313439123",
+  "siteUrl": "https://www.origo.hu",
+  "googleSiteKey": "6LddfmcpAAAAAGFhL49VU-zDabVECJhvozqqxSRl",
+  "googleTagManager": "GTM-5L3F6QG",
+  "gemiusId": ".cA7Mm7_HEhW_ocRqQjuTbeO71wwEyeu..OM_r0BuyD.y7",
+  "httpReqTimeout": 30,
+  "sentry": {
+    "dsn": "",
+    "tracingOrigins": [],
+    "sampleRate": 0.1,
+    "tracesSampleRate": 0.1,
+    "profilesSampleRate": 0.1
+  }
+}

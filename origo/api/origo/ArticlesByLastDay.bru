@@ -1,0 +1,20 @@
+meta {
+  name: ArticlesByLastDay
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{clientApiUrl}}/content-page/articles-by-last-day?rowCount_limit=6
+  body: none
+  auth: none
+}
+
+params:query {
+  rowCount_limit: 6
+}
+
+headers {
+  Accept: application/json
+  Portal: origo
+}

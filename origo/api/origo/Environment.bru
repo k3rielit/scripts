@@ -1,0 +1,15 @@
+meta {
+  name: Environment
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{clientUrl}}/environment.json
+  body: none
+  auth: none
+}
+
+headers {
+  Accept: application/json
+}

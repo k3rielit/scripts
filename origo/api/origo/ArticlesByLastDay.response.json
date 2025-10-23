@@ -1,0 +1,805 @@
+{
+  "data": [
+    {
+      "id": "1f0b02d5-d6e1-6982-8c26-a52e886b6d65",
+      "contentType": "article",
+      "preTitle": null,
+      "isVideo": "0",
+      "hasVideo": "0",
+      "hasGallery": "0",
+      "isVidcast": 0,
+      "preTitleColor": null,
+      "title": "Szentkirályi Alexandra: Együtt a nemzeti tábor! Egy emberként állunk ki a béke mellett!",
+      "lead": "Zászlók a magasban, együtt erő vagyunk, közösen dobban a szívünk! – írta a Fidesz budapesti vezetője.   ",
+      "chLead": "Zászlók a magasban, együtt erő vagyunk, közösen dobban a szívünk! – írta a Fidesz budapesti vezetője.   ",
+      "chExcerpt": "Zászlók a magasban, együtt erő vagyunk, közösen dobban a szívünk! – írta a Fidesz budapesti vezetője.   ",
+      "length": 1,
+      "publishDate": "2025-10-23 17:52:52",
+      "slug": "szentkiralyi-alexandra-egyutt-a-nemzeti-tabor-egy-emberkent-allunk-ki-a-beke-mellett",
+      "columnSlug": "belpol",
+      "columnTitle": "Belpol",
+      "columnOrder": "0",
+      "columnEmphasizeOnArticleCard": 0,
+      "recommendedTitle": "Szentkirályi Alexandra: Együtt a nemzeti tábor! Egy emberként állunk ki a béke mellett!",
+      "thumbnail": "https://cdn.origo.hu/2025/10/Yg3k12ifA1CVDiVluR_Djy6JC0yv2OxGHlyPWZEXWYc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdjNWQ4ZTAxYzRmMzQ4NjY5Y2QxMWQzZjE3NTBiYjA5.webp",
+      "secondaryThumbnail": "https://cdn.origo.hu/2025/10/ccNcnbH3aiZs06W96IOgKFEmhhds_pU4ONhZgHw5F9A/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzE4M2QyMWI1YzdjYjRkYzBiODJhMmZiMzE1NzQxODM4.webp",
+      "columnTitleColor": null,
+      "columnMainColor": null,
+      "brand": "",
+      "articleSource": null,
+      "firstTagId": "158f1573-1830-462b-8ccf-8e714eaf9cf0",
+      "firstRegionId": null,
+      "isPaywalled": "0",
+      "isAdultsOnly": false,
+      "hasDossiers": false,
+      "articleMedium": null,
+      "priorityId": "1ee6752b-ea99-6602-ba36-25fe910a4f50",
+      "hideThumbnailFromBody": "1",
+      "minuteToMinute": "not",
+      "difficulty": null,
+      "cost": null,
+      "madeForPeople": null,
+      "totalTime": null,
+      "isMmeWarranty": "0",
+      "isMaestroAuthor": "0",
+      "sentByUserId": null,
+      "facebookTitle": null,
+      "seoImage": null,
+      "magazineCover": null,
+      "podcastGuestName": null,
+      "podcastGuestNameTitle": null,
+      "seoResearchSource": null,
+      "seoCategorySelector": null,
+      "isOpinionType": 0,
+      "isShortNewsType": 0,
+      "isFastNewsType": 0,
+      "isNotebook": 0,
+      "isPodcastType": 0,
+      "isGalleryType": 0,
+      "isGuaranteeType": 0,
+      "mediaShows": [],
+      "mediaShowHosts": [],
+      "thumbnailFocusedImages": [],
+      "secondaryThumbnailFocusedImages": [],
+      "avatarImageFocusedImages": [],
+      "regions": [],
+      "tags": [
+        {
+          "id": "158f1573-1830-462b-8ccf-8e714eaf9cf0",
+          "slug": "fidesz",
+          "title": "Fidesz"
+        },
+        {
+          "id": "1ef0ebfa-f795-620c-93af-c1d6277cfe7c",
+          "slug": "bekemenet-2",
+          "title": "Békemenet"
+        },
+        {
+          "id": "2c388bc7-616c-41fe-b7b2-a0b1b21b9274",
+          "slug": "szentkiralyi-alexandra",
+          "title": "Szentkirályi Alexandra"
+        },
+        {
+          "id": "d8f0182f-c9bc-4cd6-8a0d-91a80498f0fc",
+          "slug": "beke",
+          "title": "béke"
+        }
+      ],
+      "publicAuthorM2M": [
+        {
+          "id": "19d4c39e-46bb-4122-81a2-dfc11aee7ffa",
+          "fullName": "Origo  ",
+          "slug": "origo-2",
+          "firstName": " ",
+          "lastName": "Origo",
+          "tiktok": null,
+          "facebook": null,
+          "instagram": null,
+          "avatar": null,
+          "isInner": true,
+          "rank": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": "1f0b0341-624a-66ac-a474-fbcb725a68c8",
+      "contentType": "articleVideo",
+      "preTitle": null,
+      "isVideo": "1",
+      "hasVideo": "1",
+      "hasGallery": "0",
+      "isVidcast": 0,
+      "preTitleColor": null,
+      "title": "Orbán Viktor üzent a magyar fiataloknak: Rátok is szükség van, hogy megvédjük a hazánkat",
+      "lead": "Mindig a fiatalok vannak az első sorban, ők emelik a szabadság zászlaját. ",
+      "chLead": "A forradalmat a fiatalok szokták kirobbantani. Ez így volt '56-ban is, és még korábban Petőfi 25 éves volt, Rákóczi 27. Mindig a fiatalok vannak az első sorban, ők emelik a szabadság zászlaját. Amikor kellett, a nemzet mindig számíthatott rájuk! – mondta Orbán Viktor miniszterelnök az ünnepi beszédében a magyar fiataloknak üzenve.  ",
+      "chExcerpt": "Mindig a fiatalok vannak az első sorban, ők emelik a szabadság zászlaját. ",
+      "length": 3,
+      "publishDate": "2025-10-23 17:52:08",
+      "slug": "orban-viktor-uzent-a-magyar-fiataloknak-ratok-is-szukseg-van-hogy-megvedjuk-a-hazankat",
+      "columnSlug": "belpol",
+      "columnTitle": "Belpol",
+      "columnOrder": "0",
+      "columnEmphasizeOnArticleCard": 0,
+      "recommendedTitle": "Orbán Viktor üzent a magyar fiataloknak: Rátok is szükség van, hogy megvédjük a hazánkat",
+      "thumbnail": "https://cdn.origo.hu/2025/10/qvRZpTHgtbvVnXLiMrp6WG--Gol--VKTDjfM8_4NMMU/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhlNWM1ZjNlODdhZTQyN2JhZjk0ZTczYjJhOGQ5NGM0.webp",
+      "secondaryThumbnail": "https://cdn.origo.hu/2025/10/pFRhpCNOr7cJO6UgAm6T0znMRNtuqv5XnWM2STEAcHY/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxMzgzMWM3ZjQyMTRmYjY5NTYyMzdlZTI3ZDIwZjhh.webp",
+      "columnTitleColor": null,
+      "columnMainColor": null,
+      "brand": "",
+      "articleSource": null,
+      "firstTagId": "423286bb-dcd6-4b88-be83-8212de6f33ef",
+      "firstRegionId": null,
+      "isPaywalled": "0",
+      "isAdultsOnly": false,
+      "hasDossiers": false,
+      "articleMedium": null,
+      "priorityId": "1ee6752b-ea99-6602-ba36-25fe910a4f50",
+      "hideThumbnailFromBody": "1",
+      "minuteToMinute": "not",
+      "difficulty": null,
+      "cost": null,
+      "madeForPeople": null,
+      "totalTime": null,
+      "isMmeWarranty": "0",
+      "isMaestroAuthor": "0",
+      "sentByUserId": null,
+      "facebookTitle": null,
+      "seoImage": null,
+      "magazineCover": null,
+      "podcastGuestName": null,
+      "podcastGuestNameTitle": null,
+      "seoResearchSource": null,
+      "seoCategorySelector": null,
+      "isOpinionType": 0,
+      "isShortNewsType": 0,
+      "isFastNewsType": 0,
+      "isNotebook": 0,
+      "isPodcastType": 0,
+      "isGalleryType": 0,
+      "isGuaranteeType": 0,
+      "mediaShows": [],
+      "mediaShowHosts": [],
+      "thumbnailFocusedImages": [],
+      "secondaryThumbnailFocusedImages": [],
+      "avatarImageFocusedImages": [],
+      "regions": [],
+      "tags": [
+        {
+          "id": "1ef9a990-9bf5-6e9a-994b-5bb0dd1216d9",
+          "slug": "fiatalokkal",
+          "title": "fiatalokkal"
+        },
+        {
+          "id": "2eb86a96-dc3b-4ff8-a578-f69f97d0d5e1",
+          "slug": "oktober-23-nemzeti-unnep",
+          "title": "október 23. nemzeti ünnep"
+        },
+        {
+          "id": "423286bb-dcd6-4b88-be83-8212de6f33ef",
+          "slug": "orban-viktor",
+          "title": "Orbán Viktor"
+        },
+        {
+          "id": "6176a29b-de3c-4702-b11d-4669fc285b98",
+          "slug": "forradalom",
+          "title": "forradalom"
+        },
+        {
+          "id": "6b497b2c-88f6-4901-9131-8c55ef5ed8e0",
+          "slug": "fiatal",
+          "title": "fiatal"
+        },
+        {
+          "id": "8cbe9ce3-af6c-4249-93e2-db6070911b8a",
+          "slug": "unnepseg",
+          "title": "ünnepség"
+        },
+        {
+          "id": "b86afbdd-2b48-41e8-8918-85fac32958e4",
+          "slug": "miniszterelnok",
+          "title": "miniszterelnök"
+        },
+        {
+          "id": "c61c6b26-d007-402f-960f-7423c08c18e0",
+          "slug": "beszed",
+          "title": "beszéd"
+        },
+        {
+          "id": "f0db64f9-dece-42bc-9733-d9428618614f",
+          "slug": "magyarorszag",
+          "title": "Magyarország"
+        },
+        {
+          "id": "fa3b3572-0d78-4763-a03d-8abc6cc2daac",
+          "slug": "oktober-23",
+          "title": "október 23."
+        }
+      ],
+      "publicAuthorM2M": [
+        {
+          "id": "19d4c39e-46bb-4122-81a2-dfc11aee7ffa",
+          "fullName": "Origo  ",
+          "slug": "origo-2",
+          "firstName": " ",
+          "lastName": "Origo",
+          "tiktok": null,
+          "facebook": null,
+          "instagram": null,
+          "avatar": null,
+          "isInner": true,
+          "rank": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": "1f0b0304-ce14-6b40-b88f-3586d6bb6205",
+      "contentType": "article",
+      "preTitle": null,
+      "isVideo": "0",
+      "hasVideo": "0",
+      "hasGallery": "0",
+      "isVidcast": 0,
+      "preTitleColor": null,
+      "title": "Nagy Attila Tibor: Ki nem unatkozott Magyar Péter beszéde alatt?",
+      "lead": "Úgy tűnik, hogy a még köztudottan balliberális politológusnak sem nagyon tetszett a Tisza Párt vezérének beszéde. ",
+      "chLead": "Úgy tűnik, hogy a még köztudottan balliberális politológusnak, Nagy Attila Tibornak sem nagyon tetszett a Tisza Párt vezérének beszéde.",
+      "chExcerpt": "Úgy tűnik, hogy a még köztudottan balliberális politológusnak sem nagyon tetszett a Tisza Párt vezérének beszéde. ",
+      "length": 2,
+      "publishDate": "2025-10-23 17:49:31",
+      "slug": "nagy-attila-tibor-unatkozott-magyar-peter-beszede-alatt",
+      "columnSlug": "belpol",
+      "columnTitle": "Belpol",
+      "columnOrder": "0",
+      "columnEmphasizeOnArticleCard": 0,
+      "recommendedTitle": "Nagy Attila Tibor: Ki nem unatkozott Magyar Péter beszéde alatt?",
+      "thumbnail": "https://cdn.origo.hu/2025/10/i1YjGmxymavGF2WUeYLGCpiXHJU8jRC5s1e9KDZHJuc/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhlZWZlNjM4MDhiOTRlNTk4NjczYjAwNWU2MDlkY2My.webp",
+      "secondaryThumbnail": "https://cdn.origo.hu/2025/10/MGPOhwHWsNigE-148o7VN9YU7xjjpoISv-Zau73nSWA/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVhZjhhODExMzA3MTQ1Yzc4MDkzYjU4ZGIxYzQ2NjRk.webp",
+      "columnTitleColor": null,
+      "columnMainColor": null,
+      "brand": "",
+      "articleSource": null,
+      "firstTagId": "ec7de54f-63f2-47d4-a6f9-1abca4a30f39",
+      "firstRegionId": null,
+      "isPaywalled": "0",
+      "isAdultsOnly": false,
+      "hasDossiers": false,
+      "articleMedium": null,
+      "priorityId": "1ee6752b-ea99-6602-ba36-25fe910a4f50",
+      "hideThumbnailFromBody": "1",
+      "minuteToMinute": "not",
+      "difficulty": null,
+      "cost": null,
+      "madeForPeople": null,
+      "totalTime": null,
+      "isMmeWarranty": "0",
+      "isMaestroAuthor": "0",
+      "sentByUserId": null,
+      "facebookTitle": null,
+      "seoImage": null,
+      "magazineCover": null,
+      "podcastGuestName": null,
+      "podcastGuestNameTitle": null,
+      "seoResearchSource": null,
+      "seoCategorySelector": null,
+      "isOpinionType": 0,
+      "isShortNewsType": 0,
+      "isFastNewsType": 0,
+      "isNotebook": 0,
+      "isPodcastType": 0,
+      "isGalleryType": 0,
+      "isGuaranteeType": 0,
+      "mediaShows": [],
+      "mediaShowHosts": [],
+      "thumbnailFocusedImages": [],
+      "secondaryThumbnailFocusedImages": [],
+      "avatarImageFocusedImages": [],
+      "regions": [],
+      "tags": [
+        {
+          "id": "1eef8be6-f6ea-6700-b4a6-c3f1cfffd711",
+          "slug": "tisza-part-3",
+          "title": "Tisza Párt"
+        },
+        {
+          "id": "9dea8b4e-bb7f-4bb2-9605-94f69586c552",
+          "slug": "vezer-2",
+          "title": "vezér"
+        },
+        {
+          "id": "b74a8028-e4df-45d6-af38-61d0ea9aef19",
+          "slug": "nagy-attila-tibor",
+          "title": "Nagy Attila Tibor"
+        },
+        {
+          "id": "c61c6b26-d007-402f-960f-7423c08c18e0",
+          "slug": "beszed",
+          "title": "beszéd"
+        },
+        {
+          "id": "ec7de54f-63f2-47d4-a6f9-1abca4a30f39",
+          "slug": "magyar-peter",
+          "title": "Magyar Péter"
+        }
+      ],
+      "publicAuthorM2M": [
+        {
+          "id": "19d4c39e-46bb-4122-81a2-dfc11aee7ffa",
+          "fullName": "Origo  ",
+          "slug": "origo-2",
+          "firstName": " ",
+          "lastName": "Origo",
+          "tiktok": null,
+          "facebook": null,
+          "instagram": null,
+          "avatar": null,
+          "isInner": true,
+          "rank": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": "1f0af17a-f847-69ee-a5ce-03ddbbd3ae0b",
+      "contentType": "articleVideo",
+      "preTitle": null,
+      "isVideo": "1",
+      "hasVideo": "1",
+      "hasGallery": "0",
+      "isVidcast": 0,
+      "preTitleColor": null,
+      "title": "Egykerekezni próbált a motoros, nézni is fáj, mit művelt magával - videó",
+      "lead": "Aligha fog újra próbálkozni.",
+      "chLead": "Közúton próbált trükközni, azonnal megbánta. A motoros végül egy villanyoszloppal találkozott.",
+      "chExcerpt": "Aligha fog újra próbálkozni.",
+      "length": 2,
+      "publishDate": "2025-10-23 17:40:01",
+      "slug": "motoros-egy-kerek-villanyoszlop",
+      "columnSlug": "auto",
+      "columnTitle": "Autó-Motor",
+      "columnOrder": "9",
+      "columnEmphasizeOnArticleCard": 0,
+      "recommendedTitle": "Egykerekezni próbált a motoros, nézni is fáj, mit művelt magával - videó",
+      "thumbnail": "https://cdn.origo.hu/2025/10/LfNseWmLg0dd2V-7FCzoDOGLf_mErJ7EoSrSWZslhXk/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhhMWQ0OGEwNDg1NjQwYjhhMTdkNjk3MTFlN2RiOWQw.webp",
+      "secondaryThumbnail": "https://cdn.origo.hu/2025/10/wdkCaAySE3bIZfGM5aZKllSmqvnrbLNAMFDK0agRSjU/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E3MTVjZWVhODk1NDRkNTQ5OGExZTc3NDI4Nzc0OWU0.webp",
+      "columnTitleColor": null,
+      "columnMainColor": null,
+      "brand": "",
+      "articleSource": null,
+      "firstTagId": "7937a981-62f1-47d8-ac54-a89b3006c1b1",
+      "firstRegionId": null,
+      "isPaywalled": "0",
+      "isAdultsOnly": false,
+      "hasDossiers": false,
+      "articleMedium": null,
+      "priorityId": "1ee6752b-ea5e-60a2-be38-25fe910a4f50",
+      "hideThumbnailFromBody": "1",
+      "minuteToMinute": "not",
+      "difficulty": null,
+      "cost": null,
+      "madeForPeople": null,
+      "totalTime": null,
+      "isMmeWarranty": "0",
+      "isMaestroAuthor": "0",
+      "sentByUserId": null,
+      "facebookTitle": null,
+      "seoImage": null,
+      "magazineCover": null,
+      "podcastGuestName": null,
+      "podcastGuestNameTitle": null,
+      "seoResearchSource": null,
+      "seoCategorySelector": null,
+      "isOpinionType": 0,
+      "isShortNewsType": 0,
+      "isFastNewsType": 0,
+      "isNotebook": 0,
+      "isPodcastType": 0,
+      "isGalleryType": 0,
+      "isGuaranteeType": 0,
+      "mediaShows": [],
+      "mediaShowHosts": [],
+      "thumbnailFocusedImages": [],
+      "secondaryThumbnailFocusedImages": [],
+      "regions": [],
+      "tags": [
+        {
+          "id": "7937a981-62f1-47d8-ac54-a89b3006c1b1",
+          "slug": "autos-hir",
+          "title": "autós hír"
+        },
+        {
+          "id": "8538d270-d326-4a41-a025-1f5a0f1a1b8a",
+          "slug": "baleset-2",
+          "title": "baleset"
+        },
+        {
+          "id": "9d42b50d-7315-45ea-9993-915c7c632c34",
+          "slug": "motoros",
+          "title": "motoros"
+        },
+        {
+          "id": "a4502e6e-1c11-4f42-8c9b-fef091d30b84",
+          "slug": "villanyoszlop",
+          "title": "villanyoszlop"
+        }
+      ],
+      "publicAuthorM2M": [
+        {
+          "id": "19d4c39e-46bb-4122-81a2-dfc11aee7ffa",
+          "fullName": "Origo  ",
+          "slug": "origo-2",
+          "firstName": " ",
+          "lastName": "Origo",
+          "tiktok": null,
+          "facebook": null,
+          "instagram": null,
+          "avatar": null,
+          "isInner": true,
+          "rank": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": "1f0b02f9-c3e0-695e-8d32-e757f145c8d5",
+      "contentType": "article",
+      "preTitle": null,
+      "isVideo": "0",
+      "hasVideo": "0",
+      "hasGallery": "0",
+      "isVidcast": 0,
+      "preTitleColor": null,
+      "title": "Lezuhant egy munkás egy 4 méteres emelvényről a nemzeti ünnepen",
+      "lead": "Nem élte túl.",
+      "chLead": "Munkahelyi balesetben halt meg egy középkorú férfi Erdélyben csütörtökön. Lezuhant egy munkás, aki egy sepsiszentgyörgyi oktatási intézmény felújítási munkálataiban vett részt.",
+      "chExcerpt": "Nem élte túl.",
+      "length": 2,
+      "publishDate": "2025-10-23 17:15:31",
+      "slug": "lezuhant-egy-munkas-a-nemzeti-unnepen",
+      "columnSlug": "kek-hirek",
+      "columnTitle": "Kék-hírek",
+      "columnOrder": "0",
+      "columnEmphasizeOnArticleCard": 0,
+      "recommendedTitle": "Lezuhant egy munkás egy 4 méteres emelvényről a nemzeti ünnepen",
+      "thumbnail": "https://cdn.origo.hu/2025/10/Lx9YYYvAiaso3nmFHC30_6D3FXxJYLO179qQKvtDUj4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNmNTEyMTJjMWUyNzRmNWNiODcwMGQ3MzQ4MzdjNTM4.webp",
+      "secondaryThumbnail": "https://cdn.origo.hu/2025/10/8mOy83UP8qoEPi3Z2AAU1ncM-CUPQuUj_f57lP4Vp1g/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JlNGM3N2RhMDhhNDQ3NWFhNWZkNWVhYjc3YWM0MzYw.webp",
+      "columnTitleColor": null,
+      "columnMainColor": null,
+      "brand": "",
+      "articleSource": null,
+      "firstTagId": "8538d270-d326-4a41-a025-1f5a0f1a1b8a",
+      "firstRegionId": null,
+      "isPaywalled": "0",
+      "isAdultsOnly": false,
+      "hasDossiers": false,
+      "articleMedium": null,
+      "priorityId": "1ee6752b-ea5e-60a2-be38-25fe910a4f50",
+      "hideThumbnailFromBody": "1",
+      "minuteToMinute": "not",
+      "difficulty": null,
+      "cost": null,
+      "madeForPeople": null,
+      "totalTime": null,
+      "isMmeWarranty": "0",
+      "isMaestroAuthor": "0",
+      "sentByUserId": null,
+      "facebookTitle": null,
+      "seoImage": null,
+      "magazineCover": null,
+      "podcastGuestName": null,
+      "podcastGuestNameTitle": null,
+      "seoResearchSource": null,
+      "seoCategorySelector": null,
+      "isOpinionType": 0,
+      "isShortNewsType": 0,
+      "isFastNewsType": 0,
+      "isNotebook": 0,
+      "isPodcastType": 0,
+      "isGalleryType": 0,
+      "isGuaranteeType": 0,
+      "mediaShows": [],
+      "mediaShowHosts": [],
+      "thumbnailFocusedImages": [],
+      "secondaryThumbnailFocusedImages": [],
+      "avatarImageFocusedImages": [],
+      "regions": [],
+      "tags": [
+        {
+          "id": "03f72637-b408-4a44-ada3-7439cfb6e6c2",
+          "slug": "munkas-2",
+          "title": "munkás"
+        },
+        {
+          "id": "1f0b0328-3cd9-6c60-8101-3feebee36690",
+          "slug": "felnemeten",
+          "title": "Felnémeten"
+        },
+        {
+          "id": "2fd53c09-6c9d-407d-92ca-96387333a521",
+          "slug": "teto",
+          "title": "tető"
+        },
+        {
+          "id": "6a6f4315-4917-4389-bf2e-0b9bd4deaf86",
+          "slug": "rendor",
+          "title": "rendőr"
+        },
+        {
+          "id": "7d41763f-7ee2-4ac5-8d48-64163d1b8298",
+          "slug": "sepsiszentgyorgy",
+          "title": "Sepsiszentgyörgy"
+        },
+        {
+          "id": "8538d270-d326-4a41-a025-1f5a0f1a1b8a",
+          "slug": "baleset-2",
+          "title": "baleset"
+        },
+        {
+          "id": "9bd7012c-4dd1-464f-8c51-0754c0c9c738",
+          "slug": "allvany",
+          "title": "állvány"
+        },
+        {
+          "id": "cc0aa9b8-800f-4c9e-a485-c53df6c66e6c",
+          "slug": "emelveny",
+          "title": "emelvény"
+        },
+        {
+          "id": "e718c494-fafb-4a6c-9f77-c94d7e633cdc",
+          "slug": "butoraruhaz",
+          "title": "bútoráruház"
+        },
+        {
+          "id": "e75ac240-8f64-4ab2-80be-834fd9d9fa02",
+          "slug": "eger",
+          "title": "Eger"
+        }
+      ],
+      "publicAuthorM2M": [
+        {
+          "id": "19d4c39e-46bb-4122-81a2-dfc11aee7ffa",
+          "fullName": "Origo  ",
+          "slug": "origo-2",
+          "firstName": " ",
+          "lastName": "Origo",
+          "tiktok": null,
+          "facebook": null,
+          "instagram": null,
+          "avatar": null,
+          "isInner": true,
+          "rank": null,
+          "description": null
+        }
+      ]
+    },
+    {
+      "id": "1f0b030f-5c02-6f6a-9e16-8970d79529b6",
+      "contentType": "articleVideo",
+      "preTitle": null,
+      "isVideo": "1",
+      "hasVideo": "1",
+      "hasGallery": "0",
+      "isVidcast": 0,
+      "preTitleColor": null,
+      "title": "A pályáról üzentek a Fradi játékosai a megalázott szurkolóknak – kép",
+      "lead": "A Ferencvárosnál nem csak lózung, hogy a szurkolók jelentik a csapat 12. játékosát.",
+      "chLead": "A Ferencvárosnál nem csak lózung, hogy a szurkolók jelentik a csapat 12. játékosát. A Fradi focistái a pályáról egy saját gyártású drapival üzentek azoknak a drukkereknek, akiket az osztrák hatóságok visszafordítottak a határról.",
+      "chExcerpt": "A Ferencvárosnál nem csak lózung, hogy a szurkolók jelentik a csapat 12. játékosát.",
+      "length": 3,
+      "publishDate": "2025-10-23 17:13:40",
+      "slug": "fradi-a-palyarol-uzentek-a-jatekosok-szurkoloknak-kep",
+      "columnSlug": "sport-futball",
+      "columnTitle": "Futball",
+      "columnOrder": "0",
+      "columnEmphasizeOnArticleCard": 0,
+      "recommendedTitle": "A pályáról üzentek a Fradi játékosai a megalázott szurkolóknak – kép",
+      "thumbnail": "https://cdn.origo.hu/2025/10/pHj7zm0FtPGefCcwyiVOZ_Vro1zTc333Wga1MllLeD4/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRlOWRkOTNlMmE0MjQ3N2I4NTEwOGNjYmIxNGM3NTA4.webp",
+      "secondaryThumbnail": "https://cdn.origo.hu/2025/10/sf0QayAioCiyGrMnFaHMMSMbzeQvZduN2RrbQVZfegQ/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzBhNjRlYWY5MGI3NzQ0Mjg5YmE1NzMxZjIzNjMyOTg2.webp",
+      "columnTitleColor": null,
+      "columnMainColor": null,
+      "brand": "",
+      "articleSource": null,
+      "firstTagId": "9816ca99-9d41-469c-b2c0-19067ce28b35",
+      "firstRegionId": null,
+      "isPaywalled": "0",
+      "isAdultsOnly": false,
+      "hasDossiers": false,
+      "articleMedium": null,
+      "priorityId": "1ee6752b-ea99-6602-ba36-25fe910a4f50",
+      "hideThumbnailFromBody": "1",
+      "minuteToMinute": "not",
+      "difficulty": null,
+      "cost": null,
+      "madeForPeople": null,
+      "totalTime": null,
+      "isMmeWarranty": "0",
+      "isMaestroAuthor": "0",
+      "sentByUserId": null,
+      "facebookTitle": null,
+      "seoImage": null,
+      "magazineCover": null,
+      "podcastGuestName": null,
+      "podcastGuestNameTitle": null,
+      "seoResearchSource": null,
+      "seoCategorySelector": null,
+      "isOpinionType": 0,
+      "isShortNewsType": 0,
+      "isFastNewsType": 0,
+      "isNotebook": 0,
+      "isPodcastType": 0,
+      "isGalleryType": 0,
+      "isGuaranteeType": 0,
+      "mediaShows": [],
+      "mediaShowHosts": [],
+      "thumbnailFocusedImages": [],
+      "secondaryThumbnailFocusedImages": [],
+      "regions": [],
+      "tags": [
+        {
+          "id": "1ef7051a-6d67-6604-8372-b5917e406dde",
+          "slug": "uefa-europa-liga-2",
+          "title": "UEFA Európa Liga"
+        },
+        {
+          "id": "9816ca99-9d41-469c-b2c0-19067ce28b35",
+          "slug": "ferencvaros",
+          "title": "Ferencváros"
+        },
+        {
+          "id": "a6eb3401-c0cf-4f46-9b6c-234e37bafef3",
+          "slug": "red-bull-salzburg",
+          "title": "Red Bull Salzburg"
+        }
+      ],
+      "publicAuthorM2M": [
+        {
+          "id": "19d4c39e-46bb-4122-81a2-dfc11aee7ffa",
+          "fullName": "Origo  ",
+          "slug": "origo-2",
+          "firstName": " ",
+          "lastName": "Origo",
+          "tiktok": null,
+          "facebook": null,
+          "instagram": null,
+          "avatar": null,
+          "isInner": true,
+          "rank": null,
+          "description": null
+        }
+      ]
+    }
+  ],
+  "info": [],
+  "meta": {
+    "responseType": "list",
+    "dataCount": 6,
+    "requestUrl": null,
+    "filterable": {
+      "global_filter": {
+        "requestQueryKey": "global_filter",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "author": {
+        "requestQueryKey": "author",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "content_types": {
+        "requestQueryKey": "content_types",
+        "sourceUrl": "http://origofeapi.app.content.private/publicapi/hu/source/content-page/content_types?_contentLocale=hu",
+        "selectKeyProperty": "value",
+        "selectDisplayProperty": "label"
+      },
+      "column": {
+        "requestQueryKey": "column",
+        "sourceUrl": "http://origofeapi.app.content.private/publicapi/hu/source/content-group/columns?_contentLocale=hu",
+        "selectKeyProperty": "slug",
+        "selectDisplayProperty": "title"
+      },
+      "tags": {
+        "requestQueryKey": "tags",
+        "sourceUrl": "http://origofeapi.app.content.private/publicapi/hu/source/content-group/tags?_contentLocale=hu",
+        "selectKeyProperty": "slug",
+        "selectDisplayProperty": "title"
+      },
+      "regions": {
+        "requestQueryKey": "regions",
+        "sourceUrl": "http://origofeapi.app.content.private/publicapi/hu/source/content-group/regions?_contentLocale=hu",
+        "selectKeyProperty": "slug",
+        "selectDisplayProperty": "title"
+      },
+      "sports": {
+        "requestQueryKey": "sports",
+        "sourceUrl": "http://origofeapi.app.content.private/publicapi/hu/source/content-group/sports?_contentLocale=hu",
+        "selectKeyProperty": "slug",
+        "selectDisplayProperty": "title"
+      },
+      "from_date": {
+        "requestQueryKey": "from_date",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "to_date": {
+        "requestQueryKey": "to_date",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "year": {
+        "requestQueryKey": "year",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "month": {
+        "requestQueryKey": "month",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "isFoundationContent": {
+        "requestQueryKey": "isFoundationContent",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "foundationTagSelect": {
+        "requestQueryKey": "foundationTagSelect",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "isJournalIssue": {
+        "requestQueryKey": "isJournalIssue",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "isThisAReviewArticle": {
+        "requestQueryKey": "isThisAReviewArticle",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "isHiddenOnLayout": {
+        "requestQueryKey": "isHiddenOnLayout",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "isMmeWarranty": {
+        "requestQueryKey": "isMmeWarranty",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "articleIds": {
+        "requestQueryKey": "articleIds",
+        "sourceUrl": null,
+        "selectKeyProperty": null,
+        "selectDisplayProperty": null
+      },
+      "journalIssue": {
+        "requestQueryKey": "journalIssue",
+        "sourceUrl": "http://origofeapi.app.content.private/publicapi/hu/source/content-group/journal-issue?_contentLocale=hu",
+        "selectKeyProperty": "id",
+        "selectDisplayProperty": "title"
+      }
+    },
+    "orderable": [],
+    "limitable": {
+      "pageCurrent": 0,
+      "pageMax": 30,
+      "rowAllCount": 183,
+      "rowFrom": 0,
+      "rowOnPageCount": 6
+    },
+    "es": true
+  }
+}
