@@ -13,11 +13,11 @@ Az egyetlen, a legendas, Origo. Nem kell bemutatni, a cimek magukert beszelnek.
 
 ## Origo dokumentacio
 
-A [/api/origo](/api/origo) mappa tartalmazza Bruno collection formajaban a (reszleges) Origo API dokumentaciot.
+A [/api/origo](/origo/api/origo) mappa tartalmazza Bruno collection formajaban a (reszleges) Origo API dokumentaciot.
 
 - [VSCode extension](https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno)
 - [Desktop client](https://www.usebruno.com/downloads)
 
 Minden request mellett van egy `<request_name>.response.json` pelda valasz JSON.
 
-Tovabba a [/examples](/examples) mappa tartalmaz egy [ng-state pelda JSON](/examples/origo-ng-state.json)-t.
+Tovabba a [/examples](/origo/examples) mappa tartalmaz egy [ng-state pelda JSON](/origo/examples/origo-ng-state.json)-t.
